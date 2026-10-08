@@ -1,0 +1,11 @@
+# Tested with Python 3.11 and: numpy 2.4.0, scipy 1.15.2, pyvista 0.46.4,
+# scikit-image 0.25.2, matplotlib 3.10.5, pillow 11.3.0
+numpy>=1.24
+scipy>=1.10
+pyvista>=0.43
+scikit-image>=0.21
+matplotlib>=3.7
+pillow>=9.5
+
+# Optional -- only needed for paper_figures.py
+# scienceplots
